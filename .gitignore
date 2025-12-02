@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Generated content
+comic_output/
+generated_comic_script.json
+*.png
+*.jpg
+*.jpeg
+
+# System
+.DS_Store
