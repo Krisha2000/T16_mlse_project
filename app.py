@@ -159,6 +159,8 @@ if page == "Character Studio":
                         st.image(char_data['image_paths'][0], caption=f"{char_name} - {char_role}", width=300)
                     
                     st.info("Character added to the RAG database. You can now use them in stories!")
+                    # Refresh the page to reload the character list
+                    st.experimental_rerun()
                     
                 except Exception as e:
                     st.error(f"Failed to create character: {e}")
