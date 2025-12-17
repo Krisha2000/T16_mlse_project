@@ -1,9 +1,6 @@
 # Gandhinagar Comic AI
 
 **Team ID:** T16
-
-##  Team Members
-
 | Name | Student ID |
 | :--- | :--- |
 | **Yashrajsinh Chudasma** | 202418012 |
