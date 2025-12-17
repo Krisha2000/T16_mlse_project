@@ -1,5 +1,16 @@
 # Gandhinagar Comic AI
 
+**Team ID:** T16
+
+## 👥 Team Members
+
+| Name | Student ID |
+| :--- | :--- |
+| **Yashrajsinh Chudasma** | 202418012 |
+| **Deepanshi Acharya** | 202418015 |
+| **Krisha Sompura** | 202418026 |
+| **Milankumar Nagwadiya** | 202418035 |
+
 An intelligent AI-powered comic generation platform that leverages **Multi-RAG (Retrieval Augmented Generation)** architecture to create consistent, character-driven comic strips. Built for Gandhinagar School, this application combines the power of vector databases, large language models, and generative AI to provide a complete end-to-end comic creation workflow.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
