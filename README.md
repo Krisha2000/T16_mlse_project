@@ -2,7 +2,7 @@
 
 **Team ID:** T16
 
-## 👥 Team Members
+##  Team Members
 
 | Name | Student ID |
 | :--- | :--- |
